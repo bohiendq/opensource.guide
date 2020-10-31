@@ -101,8 +101,8 @@ Sometimes, a resolution cannot be reached. The person in question may become agg
 
 * **Suspend the person** in question from the project, enforced through a temporary ban on participating in any aspect of the project
 
-* **Permanently ban** the person from the project
 
+* **Permanently ban** the person from the project
 Banning members should not be taken lightly and represents a permanent and irreconcilable difference of perspectives. You should only take these measures when it is clear that a resolution cannot be reached.
 
 ## Your responsibilities as a maintainer
